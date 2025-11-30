@@ -1,4 +1,4 @@
-# AUTOMATION Psy + Google
+# AUTOMATION Concrete + Discord
 
 ## ⚠ Lưu ý quan trọng
 
